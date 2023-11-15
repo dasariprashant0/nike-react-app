@@ -1,0 +1,29 @@
+[33mcommit acb280d3d453c8e6d49139db684fa6c4732d903b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Prashant Dasari <dasariprashant0@gmail.com>
+Date:   Thu Nov 16 00:38:44 2023 +0530
+
+    Create
+
+[33mcommit b80cf30e2453dc4b962a89b844570e33631c0bee[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Prashant Dasari <dasariprashant0@gmail.com>
+Date:   Wed Nov 15 01:50:49 2023 +0530
+
+    Completed Hero Section with changeable Shoe image with hover effect and added a new Component called ShoeCard.
+
+[33mcommit 3f1b052c5fab9fb08af2fc1dc5d9588bbb82ddb5[m
+Author: Prashant Dasari <dasariprashant0@gmail.com>
+Date:   Wed Nov 15 01:19:22 2023 +0530
+
+    Half-Finished Hero Section and Added a Button component
+
+[33mcommit 9b8a9fffba0c3e880b50d581f7230d162ef7e436[m
+Author: Prashant Dasari <dasariprashant0@gmail.com>
+Date:   Tue Nov 14 16:26:49 2023 +0530
+
+    some minor changes and the navbar component is completed and made responsive.
+
+[33mcommit 5879cef68d12fbe51fb4cbb9f075414e06002b35[m
+Author: Prashant Dasari <dasariprashant0@gmail.com>
+Date:   Sun Nov 12 16:56:17 2023 +0530
+
+    initial setup of the project with tailwind css
